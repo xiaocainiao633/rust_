@@ -1,4 +1,4 @@
-本仓库记录rust的一些练习项目，学习教程[Rust圣经](https://course.rs)  练习题：[https://colobu.com/rust100/]
+本仓库记录rust的一些练习项目，学习教程[Rust圣经](https://course.rs)  练习题：[练习教程](https://colobu.com/rust100/)
 
 Rust是一门评价很高并值得学习的语言，你会很容易感觉到它的与众不同。
 
